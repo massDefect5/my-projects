@@ -13,12 +13,12 @@ Simple Flask application for managing contacts.
 
 ------
 ### Selenium framework
-Framework for web testing using Selenium and Page Object Model. 
+Framework for web testing using Selenium and Page Object Model.  
 **Stack:** Python, Pytest, Selenium
 
 
 ### Playwright framework
-Framework for web testing using Playwright and Page Object Model. 
+Framework for web testing using Playwright and Page Object Model.  
 **Stack:** Python, Pytest, Playwright
 
 ------
