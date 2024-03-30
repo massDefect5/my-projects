@@ -2,7 +2,7 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [My Projects]
-description: [My learning adventure as a QA engineer]
+title: MassDeffect5
+description: A QA engineer's journey
 
-show_downloads: [false]
+show_downloads: false
