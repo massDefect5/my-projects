@@ -5,4 +5,4 @@ plugins:
 title: [My Projects]
 description: [A list of personal projects]
 
-show_downloads: [false]
+show_downloads: false
