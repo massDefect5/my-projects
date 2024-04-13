@@ -7,10 +7,15 @@
 
 ## Python Apps
 ### Contact Manager 
-Simple Flask application for managing contacts.  
+Flask web app for managing contacts with basic functionality. 
 **Stack:** Python, Flask, SQL Alchemy, HTML, CSS, Jinja  
 [GitHub repo](https://github.com/massDefect5/web-app-contacts)
+[Web link - TBD](#)
 
+### LogViewer
+Tkinter desktop app for opening and analysing log files. 
+**Stack:** Python, Tkinter  
+[GitHub repo](https://github.com/massDefect5/LogViewer)
 
 ## Web Testing
 ### Selenium framework
