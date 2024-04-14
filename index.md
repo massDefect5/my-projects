@@ -1,6 +1,7 @@
-# LINKS
+# My Projects
 1. [Python](#python-apps)
     - [Contact Manager](#contact-manager)
+    - [Log Viewer](#log-viewer)
 2. [Web testing](#web-testing)
     - [Selenium framework](#selenium-framework)
     - [Playwright framework](#playwright-framework)
@@ -12,7 +13,7 @@ Flask web app for managing contacts with basic functionality.
 [GitHub repo](https://github.com/massDefect5/web-app-contacts)
 [Web link - TBD](#)
 
-### LogViewer
+### Log Viewer
 Tkinter desktop app for opening and analysing log files. 
 **Stack:** Python, Tkinter  
 [GitHub repo](https://github.com/massDefect5/LogViewer)
